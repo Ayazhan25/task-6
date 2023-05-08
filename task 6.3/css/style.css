@@ -1,0 +1,221 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container{
+  max-width: 1200px;
+  margin: auto;
+}
+.flex-wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header{
+  padding-top: 53px;
+  background-color: #fff;
+}
+.logo{
+font-family: 'Mplus 1p';
+font-weight: 900;
+font-size: 24px;
+letter-spacing: 2px;
+text-decoration: none;
+color: #0F044C;
+}
+nav ul{
+  display: flex;
+  list-style: none;
+  margin-left: 135px;
+}
+nav li{
+  margin-left: 25px;
+  margin-top: 85px;
+}
+nav p{
+  margin-left: 178px;
+  margin-top: 60px;
+}
+nav a {
+  font-family: 'Mplus 1p';
+  font-weight: 800;
+  font-size: 14.4px;
+  display: block;
+  text-decoration: none;
+  color: #0F044C;
+}
+ nav .tel{
+  background: url(../img/Vector.svg) no-repeat left center;
+  padding-left: 42px;
+}
+.container_res{
+  background: url(../img/responsive.jpg) no-repeat;
+}
+.responsive{
+max-width: 1146px;
+}
+.responsive h1{
+  padding-left: 149px;
+  padding-top: 126px;
+  font-family: 'Mplus 1p';
+font-weight: 500;
+font-size: 54px;
+line-height: 80px;
+color: #FCFCFC;;
+}
+.responsive p{
+  padding-left: 149px;
+  padding-top: 22px;
+  padding-bottom: 115px;
+  font-family: 'Mplus 1p';
+font-weight: 800;
+font-size: 18px;
+line-height: 26px;
+letter-spacing: 2px;
+color: #F4F4ED;
+}
+.content h1{
+  padding-top: 72px;
+  padding-left: 147px;
+  font-family: 'Mplus 1p';
+font-style: normal;
+font-weight: 800;
+font-size: 12.6px;
+line-height: 26px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color:  #A22F32;
+}
+.content p{
+  padding-top: 12px;
+  padding-left: 147px;
+  padding-right: 423px;
+  font-family: 'Mplus 1p';
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 40px;
+color: #30233D;
+}
+.html_1{
+  display: inline-block;
+  margin-top: 60px;
+  margin-left: 147px;
+  margin-bottom: 58px;
+  width: 362px;
+  border: 1px solid #F61067;
+}
+.html_1 img{
+  padding-left: 36px;
+  padding-top: 39px;
+  width: 72px;
+  height: 72px;
+}
+.html_1 h1{
+  padding-left: 36px;
+  padding-top: 33px;
+  padding-right: 254px;
+  font-family: 'Mplus 1p';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 40px;
+  color: #30233D;
+}
+.html_1 p{
+  padding-left: 36px;
+  padding-top: 13px;
+  padding-bottom: 64px;
+  padding-right: 36px;
+  font-family: 'Mplus 1p';
+font-style: normal;
+font-weight: 400;
+font-size: 16.2px;
+line-height: 26px;
+color:  #30233D;
+}
+.CSS{
+  display: inline-block;
+  margin-left: 30px;
+  margin-top: 60px;
+  margin-bottom: 58px;
+  width: 362px;
+  border: 1px solid #F61067;
+}
+.CSS img{
+  padding-left: 36px;
+  padding-top: 39px;
+  width: 72px;
+  height: 72px;
+}
+.CSS h1{
+  padding-left: 36px;
+  padding-top: 33px;
+  padding-right: 254px;
+  font-family: 'Mplus 1p';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 40px;
+  color: #30233D;
+}
+.CSS p{
+  padding-left: 36px;
+  padding-top: 13px;
+  padding-bottom: 64px;
+  padding-right: 36px;
+  font-family: 'Mplus 1p';
+font-style: normal;
+font-weight: 400;
+font-size: 16.2px;
+line-height: 26px;
+color:  #30233D;
+}
+.Bootstrap{
+  display: inline-block;
+  margin-top: 61px;
+  margin-left: 30px;
+  margin-bottom: 58px;
+  width: 360px;
+  border: 1px solid #F61067;
+}
+.Bootstrap img{
+  padding-left: 36px;
+  padding-top: 38px;
+  width: 72px;
+  height: 72px; 
+}
+.Bootstrap h1{
+  padding-left: 36px;
+  padding-top: 34px;
+  padding-right: 254px;
+  font-family: 'Mplus 1p';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 40px;
+  color: #30233D;
+}
+.Bootstrap p{
+  padding-left: 36px;
+  padding-top: 13px;
+  padding-bottom: 38px;
+  padding-right: 36px;
+  font-family: 'Mplus 1p';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.2px;
+  line-height: 26px;
+  color: #30233D;
+}
+footer{
+  background-color: #080800;
+}
+footer h1{
+  padding-top:84px;
+  padding-left: 147px;
+color: #FFFFFF;
+font-size: 41px;
+}
+
